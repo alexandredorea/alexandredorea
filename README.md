@@ -33,6 +33,8 @@ I am a developer who is passionate about stuff like System Architecture, DevOps,
 	</p>
 </div>
 
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
 ### 📚 My stack:
 <p>
 	<img src="https://img.shields.io/badge/dotnet-net%235C2D91.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white">
@@ -49,7 +51,9 @@ I am a developer who is passionate about stuff like System Architecture, DevOps,
 	<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 </p>
- 
+
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
 <h1 align="center">
 	✨ Where you can find me:
 	<p align="center">
