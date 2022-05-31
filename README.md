@@ -5,66 +5,68 @@
 	<img align="right" alt="Alexandre's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<h1 align="center"> 
-	👋 Hi there, I'm Alexandre Dórea! 
-</h1>
-<h3 align="center">
-	🚀 Back-end Developer | (FullStack in progress) 
-</h3>
+<h1 align="center">Hey there, my name is Alexandre Dórea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I am a developer who is passionate about stuff like System Architecture, DevOps, etc. Few tech that I enjoy working in are C#, VueJS, Docker and much more. 
-<!-- I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Back-End+Developer;Passionate+Developer)](https://git.io/typing-svg)
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset, competitive coding, etc.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/alexandredorea) 
-	<!--
-	- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-	- 👋 My personal [blog site](https://pr2tik1.github.io/blog/)
-	waka-->
+## 🙋‍♂️ About Me
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and .Net technologies.
 
-### 😇 My Github Stats:
-<div>
-	<br>
-	<p align = "center">
-		<img src = "https://github-readme-stats.vercel.app/api?username=alexandredorea&show_icons=true&theme=vue-dark&line_height=27">
-		<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredorea&theme=vue-dark">
-	</p>
-</div>
+Additionally, I am love about stuff like System Architecture, Docker, DevOps, etc. and much more.
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-### 📚 My stack:
-<p>
-	<img src="https://img.shields.io/badge/dotnet-net%235C2D91.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white">
-	<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?color=239120&style=for-the-badge&logo=c-sharp&logoColor=white"> 
+## 📚 Languages and Tools:
+
+<p align="centre">
+	<a href="https://git-scm.com/" target="_blank"> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+	</a>
+	<a href="https://azure.microsoft.com/en-in/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+	</a>
+    	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
+	</a>
+    	<a href="https://en.wikipedia.org/wiki/.NET_Core" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" /> 
+	</a>
+    	<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" /> 
+	</a>
+    	<a href="https://www.android.com/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" /> 
+	</a>
+    	<a href="https://www.w3.org/html/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
+	</a>
+    	<a href="https://www.w3schools.com/css/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
+	</a>
+    	<a href="https://getbootstrap.com" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
+	</a>
+    	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
+	</a>
+    	<a href="https://kubernetes.io" target="_blank"> 
+		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> 
+	</a>
+    	<a href="https://www.docker.com/" target="_blank"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+	</a>
+    	<a href="https://postman.com" target="_blank"> 
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
+	</a> 
+	
 </p>
-<p>
-	<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
-	<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/docker-docker%232496ED.svg?color=2496ED&style=for-the-badge&logo=docker&logoColor=white">
-</p>
-<p>
-	<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+
+## 📊 [My Github Stats](https://sourcerer.io/alexandredorea) 
+<p align="center">
+  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandredorea&show_icons=true&include_all_commits=true&theme=radical" />
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredorea&include_all_commits=true&theme=radical" />
+  <img width="55%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexandredorea&layout=compact&theme=radical" />
 </p>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
-
-<h1 align="center">
-	✨ Where you can find me:
-	<p align="center">
-		<br/>
-		<a href="https://br.linkedin.com/in/alexandredorea/">
-			<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://br.linkedin.com/in/alexandredorea">
-		</a>
-		<a href="mailto:alexandre.dorea@gmail.com">
-			<img src="https://img.shields.io/badge/-Gmail-c5392a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alexandre.dorea@gmail.com">
-		</a>
-	</p>
-</h1>
 
 <h3 align="center"><strong> Now 👇🏽 enjoy my repos made by me! </strong> </h3>
