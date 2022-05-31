@@ -34,9 +34,6 @@ Additionally, I am love about stuff like System Architecture, Docker, DevOps, et
     	<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" /> 
 	</a>
-    	<a href="https://www.android.com/" target="_blank"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40" /> 
-	</a>
     	<a href="https://www.w3.org/html/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
 	</a>
